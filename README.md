@@ -1,4 +1,4 @@
-<img width="622" height="477" alt="image" src="https://github.com/user-attachments/assets/98a964c8-5d59-41bb-8c7b-c0096da49a04" /># Projet Lab 9 — Application Android connectée à un Web Service PHP
+# Projet Lab 9 — Application Android connectée à un Web Service PHP
 
 ## Description du projet
 
